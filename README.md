@@ -56,5 +56,3 @@ This software has a very specific data input and correponding folder name. In th
 
 - matlab inclusive SPM/hMRI
     - only needed for final MPM analysis
-
-# MPM
